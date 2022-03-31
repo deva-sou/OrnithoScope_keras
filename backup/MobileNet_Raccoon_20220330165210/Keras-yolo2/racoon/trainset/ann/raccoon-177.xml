@@ -1,0 +1,34 @@
+<annotation>
+	<folder>images</folder>
+	<filename>raccoon-177.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>276</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>18</ymin>
+			<xmax>157</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>11</ymin>
+			<xmax>263</xmax>
+			<ymax>146</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,22 @@
+<annotation>
+	<folder>images</folder>
+	<filename>raccoon-13.jpg</filename>
+	<segmented>0</segmented>
+	<size>
+		<width>660</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>raccoon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>27</ymin>
+			<xmax>393</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

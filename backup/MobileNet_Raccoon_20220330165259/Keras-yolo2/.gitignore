@@ -1,0 +1,13 @@
+# cache and binaries
+__pycache__
+venv
+
+# dev environment
+.vscode
+.idea
+logs
+
+# Any ML weights
+*.hdf5
+*.pyc
+
