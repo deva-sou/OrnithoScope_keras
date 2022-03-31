@@ -1,0 +1,20 @@
+# cache and binaries
+__pycache__
+venv
+
+# dev environment
+.vscode
+.idea
+logs
+
+# Any ML weights
+*.hdf5
+*.pyc
+*.h5
+
+# data
+keras_yolo2/birds_data/testset/ann/*
+keras_yolo2/birds_data/testset/img/*
+keras_yolo2/birds_data/trainset/ann/*
+keras_yolo2/birds_data/trainset/img/*
+backup/
