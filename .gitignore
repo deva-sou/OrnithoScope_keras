@@ -13,9 +13,9 @@ logs
 *.h5
 
 # data
-./keras_yolo2/birds_data/testset/ann/*
-./keras_yolo2/birds_data/testset/img/*
-./keras_yolo2/birds_data/trainset/ann/*
-./keras_yolo2/birds_data/trainset/img/*
+# keras_yolo2/birds_data/testset/ann/*
+# keras_yolo2/birds_data/testset/img/*
+# keras_yolo2/birds_data/trainset/ann/*
+# keras_yolo2/birds_data/trainset/img/*
 backup/
-raccoon_bestLoss.h5      
+raccoon_bestLoss.h5
