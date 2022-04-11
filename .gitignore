@@ -17,5 +17,5 @@ keras_yolo2/birds_data/testset/ann/*
 keras_yolo2/birds_data/testset/img/*
 keras_yolo2/birds_data/trainset/ann/*
 keras_yolo2/birds_data/trainset/img/*
-backup/
+backup/*
 raccoon_bestLoss.h5
